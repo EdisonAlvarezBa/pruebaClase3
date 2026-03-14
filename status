@@ -1,0 +1,29 @@
+[33mcommit af7d345c00c1fcbcc2ebf6a83ae113aa4102f0b2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/ramaEdison[m[33m, [m[1;32mramaEdison[m[33m)[m
+Author: EdisonAlvarezBa <edisonalvarezbarreto@gmail.com>
+Date:   Fri Mar 13 18:20:55 2026 -0500
+
+    modifiqué analisis.py desde Edison
+
+[33mcommit 849300ab6537575d3d88a07e558c50f0fb9483fc[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: EdisonAlvarezBa <edisonalvarezbarreto@gmail.com>
+Date:   Fri Mar 13 16:36:14 2026 -0500
+
+    cree un nuevo archivo, readme
+
+[33mcommit 296f42fd5a6bb2bca84dfa26ff88d716d1349796[m
+Author: EdisonAlvarezBa <edisonalvarezbarreto@gmail.com>
+Date:   Fri Mar 13 11:42:43 2026 -0500
+
+    modifiqué analisis.py
+
+[33mcommit 178676db89d89bace584db591788325294342ee0[m
+Author: EdisonAlvarezBa <edisonalvarezbarreto@gmail.com>
+Date:   Fri Mar 13 11:29:57 2026 -0500
+
+    agregando  analisis.py
+
+[33mcommit 46856d8f36ea4d6036a494676fcfc0f931aab5b7[m
+Author: EdisonAlvarezBa <edisonalvarezbarreto@gmail.com>
+Date:   Fri Mar 13 11:08:30 2026 -0500
+
+    Agregamos el archivo gitIgnore
